@@ -48,8 +48,6 @@ public class Coins {
 		DecimalFormat df = new DecimalFormat("0.00");
 		double dollaramount = q_amount+d_amount+n_amount+p_amount;
 		
-		
-		
 		System.out.println("");
 		System.out.println("Total number of coins: " + coinsum);
 		System.out.println("Total dollar amount: " + "$" + df.format(dollaramount));
