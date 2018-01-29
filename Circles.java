@@ -1,5 +1,3 @@
-package lab5;
-
 import java.util.*;
 import java.awt.*;
 
